@@ -16,7 +16,7 @@ import VueGtag from 'vue-gtag'
 Vue.component('ImgInputer', ImgInputer)
 Vue.use(VueSweetalert2)
 Vue.use(VueGtag, {
-  config: { id: "G-J21YR249NK" }
+  config: { id: 'G-J21YR249NK' }
 })
 Vue.mixin(mixin)
 
